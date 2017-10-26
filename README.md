@@ -9,4 +9,6 @@ When I've time, I'll probably sync this with my 'scrape_morningstar' repository 
 
 The above function will first find the 'ticker' symbol then go to morningstar database to extract all the info!
 
-Feel free to transform this to function for subsequent reuse. 
+At the moment I wrote a function in ticker_symbol_from_unstructured_coyname.R to pin-point the ticker symbol with any unstructured company names. 
+
+Feel free to transform use the scripts and functions!
