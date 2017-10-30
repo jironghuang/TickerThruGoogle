@@ -12,3 +12,5 @@ The above function will first find the 'ticker' symbol then go to morningstar da
 At the moment I wrote a function in ticker_symbol_from_unstructured_coyname.R to pin-point the ticker symbol with any unstructured company names. 
 
 Feel free to transform use the scripts and functions!
+
+Latest update: Apparently, google search API blocked me as a 'bot', Bing Search could be an alternative.
